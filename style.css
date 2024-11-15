@@ -87,5 +87,27 @@ nav button {
 }
 
 .seperation{
-    height: 11px;
+    height: 7px;
+    background-color: rgb(46, 44, 44);
+}
+
+.btn{
+    padding: 3px 8px;
+    font-weight: bold;
+    background-color: white;
+}
+
+
+.btn-red{
+    background-color: red;
+    color: white;
+    padding: 3px 24px ;
+    font-size: 20px;
+    border-radius: 4px;
+
+}
+.btn-red-sm {
+    background-color: red;
+    color: white;
+
 }
